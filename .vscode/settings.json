@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/code_and_cloud/Desktop/Web-Project/User-Manager-Application/.github/workflows/build-docker-image.yml"
+    }
+}
